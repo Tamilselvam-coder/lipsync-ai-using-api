@@ -45,7 +45,7 @@ Once the job completes, the generated video URL will be printed in the terminal.
 Example output:
 ```
 Job completed!
-Generated video URL: [https://api.sync.so/output/generated_video.mp4](https://api.sync.so/v2/generations/03175510-cac1-4c47-ac71-cdbc0053db20/result?token=a1ecc777-6d88-44ff-82b6-694c0f7afcc0)
+Generated video URL: (https://api.sync.so/v2/generations/03175510-cac1-4c47-ac71-cdbc0053db20/result?token=a1ecc777-6d88-44ff-82b6-694c0f7afcc0)
 ```
 
 ## API Workflow
