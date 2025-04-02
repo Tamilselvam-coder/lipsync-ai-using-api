@@ -33,7 +33,7 @@ api_key = "YOUR_API_KEY_HERE"
 ## Usage
 Run the script:
 ```sh
-python lipsync.py
+python main.py
 ```
 
 ## Example Input
